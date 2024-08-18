@@ -1,0 +1,14 @@
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\bin\Debug\net6.0\price engine algorithme.exe
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\bin\Debug\net6.0\price engine algorithme.deps.json
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\bin\Debug\net6.0\price engine algorithme.runtimeconfig.json
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\bin\Debug\net6.0\price engine algorithme.dll
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\bin\Debug\net6.0\price engine algorithme.pdb
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.AssemblyInfoInputs.cache
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.AssemblyInfo.cs
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.csproj.CoreCompileInputs.cache
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.dll
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\refint\price engine algorithme.dll
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.pdb
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\price engine algorithme.genruntimeconfig.cache
+C:\Users\Touuuu\source\repos\price engine algorithme\price engine algorithme\obj\Debug\net6.0\ref\price engine algorithme.dll
